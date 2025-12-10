@@ -21,7 +21,7 @@ JavaScript
 
 📷 Preview
 
-<img width="567" height="869" alt="image" src="https://github.com/user-attachments/assets/81e5a640-c389-4806-bc39-0583539e861c" />
+<img width="421" height="821" alt="image" src="https://github.com/user-attachments/assets/f4e619ab-162b-4e06-b4b7-050ede70b22f" />
 
 
 🚀 Como usar
